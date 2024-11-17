@@ -1,9 +1,10 @@
 ## About Me 👋
-Hi, I’m **Arda Can Uysal**, a **mobile app developer** passionate about creating user-friendly applications. I primarily work with **React Native** to build cross-platform apps and am also learning **Swift** for native iOS development.
+Hi, I’m Arda Can Uysal
+I am a mobile app developer passionate about creating user-friendly applications. I primarily work with **React Native** to build cross-platform apps and am also learning **Swift** for native iOS development.
 
 I enjoy coding, solving problems, and learning new technologies. Mobile development excites me because it enables me to create tools that people use in their everyday lives.
 
-Check out my [GitHub](https://github.com/Ardacanuysal) or visit my [website](https://ardacanuysal.com) to see more of my work. 😊
+Check out my [website](https://ardacanuysal.com) to see more of my work. 😊
 
 ---
 
